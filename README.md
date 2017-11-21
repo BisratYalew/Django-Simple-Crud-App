@@ -40,7 +40,10 @@ Created by [Bisrat Yalew](https://linkedin.com/in/bisratyalew) - [@bisratyalew](
 
 Follow me on github to check out my programs
 
-Contact me via bisratyalew10@gmail.com or @bisratyalew on Telegram.  
+Contact me via [@bisratyalew](mailto:bisratyalew10@gmail.com) or [@bisratyalew](https://t.me/bisratyalew) on Telegram
+
+You can find me also on [@bisratyalew](https://instagram.com/bisratyalew) - on Instagram
+
 Thanks in advance.
 
 Have Fun!!!
