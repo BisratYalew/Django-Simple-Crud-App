@@ -1,1 +1,4 @@
-static/* linguist-language
+vim: syntax=python
+vim: set syntax=python:
+vim: set filetype=prolog:
+vim: set ft=py:
