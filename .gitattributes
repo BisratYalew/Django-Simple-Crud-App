@@ -1,4 +1,3 @@
-vim: syntax=python
-vim: set syntax=python:
-vim: set filetype=prolog:
-vim: set ft=py:
+*.css linguist-language=Python
+special-vendored-path/* linguist-vendored
+jquery.js linguist-vendored=false
